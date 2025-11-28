@@ -1,4 +1,4 @@
-# UJIAN_PWEB - Dashboard Admin Penjualan (React + Express + SQLite)
+# Admin-penjualan (UJIAN_PWEB) - Dashboard Admin Penjualan (React + Express + SQLite)
 
 Aplikasi admin penjualan dengan frontend React (Vite + Tailwind + DaisyUI) dan backend Express + SQLite (better-sqlite3). Backend otomatis membuat DB `server/data.db` dan mengisi data contoh; frontend menyimpan akun di `localStorage`.
 
@@ -55,4 +55,4 @@ npm run dev          # default http://localhost:5173
 - `POST /api/reset` - reset DB ke data contoh.
 
 ## Siap push ke GitHub
-Jalankan `git init`, `git add .`, `git commit -m "Initial commit"`, `git branch -M main`, `git remote add origin <url-repo>`, lalu `git push -u origin main`.
+`git add . && git commit -m "Add frontend and backend app" && git push -u origin main`
