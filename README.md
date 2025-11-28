@@ -54,5 +54,4 @@ npm run dev          # default http://localhost:5173
 - `POST /api/import` - impor data (produk dan penjualan).
 - `POST /api/reset` - reset DB ke data contoh.
 
-## Siap push ke GitHub
-`git add . && git commit -m "Add frontend and backend app" && git push -u origin main`
+
